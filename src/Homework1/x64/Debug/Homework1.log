@@ -1,0 +1,6 @@
+﻿  CannonSystem.cpp
+  main.cpp
+D:\Graphics Programming\Homework1\Homework1\main.cpp(123,54): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Graphics Programming\Homework1\Homework1\main.cpp(292,55): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  Homework1.vcxproj -> D:\Graphics Programming\Homework1\x64\Debug\BallisticSimulator.exe
